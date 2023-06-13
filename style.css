@@ -1,0 +1,39 @@
+#home{
+    background-color: beige;
+}
+#main{
+    background-color: gray;
+}
+body{
+    background-color: gray;
+}
+#hom{
+    background-color: beige;
+}
+#abt{
+    background-color: aliceblue;
+}
+#wor{
+    background-color: antiquewhite;
+}
+#resu{
+    background-color: blue;
+}
+#cont{
+    background-color: blueviolet;
+}
+#about{
+    background-color: aliceblue;
+}
+#work{
+    background-color: antiquewhite;
+}
+#resume{
+    background-color: blue;
+}
+#contact{
+    background-color: blueviolet;
+}
+#foot{
+    color: azure;
+}
